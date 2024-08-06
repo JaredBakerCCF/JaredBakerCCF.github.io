@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<username>/<repository-name>"
+    "url": "https://github.com/JaredBakerCCF/jbake-resume-site"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
